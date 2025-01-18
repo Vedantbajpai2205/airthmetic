@@ -6,3 +6,5 @@ class calculator{
 		
 	}
 }
+Task 2
+add method add in feature branch
